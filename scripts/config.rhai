@@ -2,7 +2,7 @@ let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["GNN", "GCN","Graph","Hypergraph", "Transformer"];
 let titles_method = ["fMRI", "MRI", "Multimodal", "Multi-modal", "Brain network", "Brain connectivity", "Brain", ];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"，"Dinggang Shen"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Dinggang Shen"];
 
 let conferences = [
     // AI
